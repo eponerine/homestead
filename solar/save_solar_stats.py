@@ -4,7 +4,7 @@ import json, influxdb_client
 from influxdb_client.client.write_api import SYNCHRONOUS
 
 # Load the config
-with open('./config.json') as config_file:
+with open('/var/tmp/solar-stats/config.json') as config_file:
     config = json.load(config_file)
     config_file.close()
 
