@@ -1,0 +1,7 @@
+{
+    "influxDB_bucket":   "SolarGarden",
+    "influxDB_location": "gardenshed",
+    "influxDB_org":      "Hilltop Homestead",
+    "influxDB_token":    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx==",
+    "influxDB_url":      "http://xxxxxxxxxxxxxx.com:8086/"
+}
